@@ -12,7 +12,8 @@ Meus links para contato, incluindo linkedin e meu portfólio.
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="projeto DevLinks" src=".github/preview2.png" width="100%">
+  <img alt="projeto DevLinks" src=".github/preview1.png" width="100%">
 
   ## 🚀 Tecnologias
   Esse projeto foi desenvolvido com as seguintes tecnologias:
