@@ -9,6 +9,10 @@ Meus links para contato, incluindo linkedin e meu portfólio.
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
 
+<br>
+
+<p align="center">
+  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
 
   ## 🚀 Tecnologias
   Esse projeto foi desenvolvido com as seguintes tecnologias:
